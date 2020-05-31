@@ -348,3 +348,17 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+/depthmap/doc/
+/depthmap/Debug/
+/depthmap/Images/
+/depthmap/Videos/
+/depthmap/x64/
+/depthmap/clean.bat
+/depthmap/OpenCVApplication.cpp
+/depthmap/OpenCVApplication.sln
+/depthmap/OpenCVApplication.vcxproj
+/depthmap/OpenCVApplication.vcxproj.filters
+/depthmap/targetver.h
+/depthmap/OpenCV/
+/depthmap/.vs/
