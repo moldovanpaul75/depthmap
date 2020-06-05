@@ -1,6 +1,7 @@
 # depthmap
 depthmap using census transform and hamming distance
 
+https://www.youtube.com/watch?v=Lx64IZDGEHI&feature=youtu.be
 
 
 # Papers
