@@ -6,7 +6,9 @@ https://www.youtube.com/watch?v=Lx64IZDGEHI&feature=youtu.be
 
 # Example
 ![Disparity Map](rezultate/pentagon_left.bmp) ![Disparity Map](rezultate/pentagon_right.bmp) 
-![Disparity Map](rezultate/3x3_20disp.jpg) ![Disparity Map](rezultate/7x7_20disp.jpg)
+
+![Disparity Map](rezultate/3x3_20disp.png) ![Disparity Map](rezultate/7x7_20disp.jpg)
+
 ![Disparity Map](rezultate/abs_dist_3x3.jpg) ![Disparity Map](rezultate/abs_dist_7x7.jpg) ![Disparity Map](rezultate/abs_dist_11x11.jpg)
 
 # Papers
