@@ -1,10 +1,10 @@
 # depthmap
-depthmap using census transform and hamming distance
+Depthmap using census transform and hamming distance
 
 - [Youtube demo](https://www.youtube.com/watch?v=Lx64IZDGEHI&feature=youtu.be)
 - [Documentation](doc.pdf)
 
-# Example
+# Results
 ![Disparity Map](rezultate/pentagon_left.bmp) ![Disparity Map](rezultate/pentagon_right.bmp) 
 
 ![Hamming distance and census transform 3x3](rezultate/3x3_20disp.png) ![Hamming distance and census transform 7x7](rezultate/7x7_20disp.jpg)
