@@ -1,8 +1,8 @@
 # depthmap
 depthmap using census transform and hamming distance
 
-https://www.youtube.com/watch?v=Lx64IZDGEHI&feature=youtu.be
-
+- [Youtube demo](https://www.youtube.com/watch?v=Lx64IZDGEHI&feature=youtu.be)
+- [Documentation](doc.pdf)
 
 # Example
 ![Disparity Map](rezultate/pentagon_left.bmp) ![Disparity Map](rezultate/pentagon_right.bmp) 
