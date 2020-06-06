@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=Lx64IZDGEHI&feature=youtu.be
 
 
 # Example
-![Disparity Map](rezultate/pentagon_left.bmp) ![Disparity Map](rezultate/pentagon_right.bmp) ![Disparity Map](rezultate/7x7_20disp.jpg)
+![Disparity Map](rezultate/pentagon_left.bmp) ![Disparity Map](rezultate/pentagon_right.bmp) ![Disparity Map](rezultate/7x7 20disp.jpg)
 
 # Papers
 - [Stereo Matching using Census Transform of Adaptive Window Sizes with Gradient Images](http://www.apsipa.org/proceedings_2016/HTML/paper2016/277.pdf)
